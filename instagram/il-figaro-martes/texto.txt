@@ -1,0 +1,17 @@
+Cómo construimos el sistema de Il Figaro, barbería italiana en Chacarita.
+
+Antes, sacar un turno era un sistema web difícil de entender, el teléfono o pasar por recepción. Hoy es un solo sistema, conectado de punta a punta:
+
+1. App de turnos: el cliente elige servicio, barbero y horario, a cualquier hora.
+2. Avisos automáticos: confirmación y recordatorio por email y notificación de la app.
+3. Agenda única: lo que reserva el cliente llega a la misma agenda que ven el equipo y los dueños.
+4. Fidelización: cada visita suma para premios y eventos del salón.
+5. Panel de los dueños: agenda por barbero, clientes e historial, equipo y servicios, fidelización, ganancias y métricas, en un solo lugar.
+
+Guardá esta publicación para cuando revises cómo se gestionan los turnos en tu negocio.
+
+¿Tu negocio todavía depende del teléfono y de la recepción? Escribinos por mensaje y coordinamos un diagnóstico.
+
+@ilfigaro
+
+#Klirenslab #AgentesDeIA #Automatizacion #Barberia #GestionDeTurnos #BuenosAires
