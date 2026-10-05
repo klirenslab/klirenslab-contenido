@@ -1,0 +1,11 @@
+Klirenslab diseña e implementa agentes y automatizaciones para empresas que quieren recuperar el tiempo que hoy se va en trabajo operativo.
+
+Tomamos los procesos que se repiten todos los días y los resolvemos de punta a punta. El equipo supervisa y decide; la ejecución queda automatizada.
+
+Cada implementación se mide en horas recuperadas por mes y en costo evitado. Si el resultado no se puede medir, no lo proponemos.
+
+En esta página vamos a compartir lo que construimos, casos con resultados, criterios sobre qué conviene automatizar y cómo trabajamos.
+
+¿Cuánto tiempo operativo podría recuperar tu empresa? Escribinos por mensaje y coordinamos un diagnóstico.
+
+#Automatizacion #AgentesAutonomos #Operaciones

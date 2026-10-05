@@ -1,0 +1,11 @@
+Qué es un agente y qué lo diferencia de un chatbot.
+
+Un chatbot contesta preguntas. Un agente recibe una tarea, accede a los sistemas de la empresa, la completa y reporta el resultado.
+
+Un ejemplo: llega un pedido por correo. El agente lo interpreta, verifica el stock, arma la cotización con la lista de precios vigente y la deja lista para aprobar.
+
+Lo que no es: no reemplaza al equipo ni decide por él. Ejecuta la parte repetitiva; el criterio sigue siendo de una persona.
+
+¿Qué proceso le confiarías primero a un agente?
+
+#Automatizacion #AgentesAutonomos #Productividad
