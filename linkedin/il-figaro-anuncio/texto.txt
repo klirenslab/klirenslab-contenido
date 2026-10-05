@@ -1,6 +1,6 @@
 Esta semana presentamos nuestro primer caso público.
 
-Cerramos un acuerdo con Il Figaro, barbería italiana en Chacarita, para ordenar cómo se gestionan sus turnos, los avisos a sus clientes y la operación del salón.
+Es un orgullo trabajar para Il Figaro, barbería italiana en Chacarita. Los acompañamos a ordenar cómo se gestionan sus turnos, los avisos a sus clientes y la operación del salón.
 
 Mañana mostramos el sistema que construimos, paso a paso: el problema que tenían, la solución y cómo funciona.
 
