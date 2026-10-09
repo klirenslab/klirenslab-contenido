@@ -1,0 +1,13 @@
+Si tuviéramos un predio de canchas, así funcionaría solo. Un caso hipotético, hora por hora.
+
+08:00 · Los turnos vacíos de la mañana se ofrecen solos a los clientes que juegan en ese horario.
+13:00 · Alguien escribe a cualquier hora: el agente responde, cobra la seña con un link de pago y confirma.
+18:00 · Recordatorio a los turnos de la noche. Si uno se cae, la cancha se le ofrece a la lista de espera.
+20:00 · Las luces se prenden solo cuando hay turno, el buffet pide reposición y el mantenimiento se agenda sin pisar reservas.
+23:30 · La caja se cierra sola y el dueño recibe el resumen del día.
+
+Y un panel con todo el predio: ocupación por franja, clientes frecuentes y qué deja cada cancha.
+
+¿Tenés un predio, un club o un negocio con turnos? Escribinos por mensaje y coordinamos un diagnóstico.
+
+#automatizacion #agentesdeia #futbol5 #canchas #gestiondeturnos #buenosaires

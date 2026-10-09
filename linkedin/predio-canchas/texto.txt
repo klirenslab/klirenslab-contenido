@@ -1,0 +1,13 @@
+Si tuviéramos un predio de canchas de fútbol, así funcionaría solo. Un caso hipotético para mostrar qué significa automatizar una operación de punta a punta, del lado de los clientes y del lado de la empresa.
+
+08:00 · Los turnos vacíos de la mañana se ofrecen a los clientes que suelen jugar en ese horario.
+13:00 · Las reservas se toman a cualquier hora: el agente responde, cobra la seña y confirma.
+18:00 · Recordatorios a los turnos de la noche. Si uno se cae, la cancha vuelve a ofrecerse a la lista de espera.
+20:00 · Luces solo cuando hay turno, reposición del buffet y mantenimiento agendado sin pisar reservas.
+23:30 · Cierre de caja conciliado y resumen del día para el dueño.
+
+El resultado es un panel con toda la operación: ocupación por franja, clientes frecuentes y rendimiento de cada cancha. El mismo esquema aplica a clubes, gimnasios, consultorios y cualquier negocio que viva de los turnos.
+
+¿Tu operación todavía depende del teléfono? Escribinos por mensaje y coordinamos un diagnóstico.
+
+#Automatizacion #Operaciones #GestionDeTurnos
